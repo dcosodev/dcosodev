@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/dcoso.is--a.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dcoso.is-a.dev/en)
 ![Focus](https://img.shields.io/badge/focus-Agentic%20Systems%20%2B%20Hackathons-blueviolet?style=for-the-badge)
-![Mode](https://img.shields.io/badge/mode-lab%20%2F%20build%20in%20public-ff6b35?style=for-the-badge)
 
 </div>
 
