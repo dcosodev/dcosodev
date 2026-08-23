@@ -26,12 +26,6 @@
 
 ---
 
-### 🎯 Philosophy
-
-> Build the thing. Document it. Ship the next thing.
-
----
-
 ### 🌐 Want the full story?
 
 I keep the long-form stuff — experience, research notes, lab write-ups, the works — on my personal site.
